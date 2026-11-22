@@ -1,0 +1,111 @@
+population_group_name,measure_name,location_name,sex_name,age_name,cause_name,metric_name,year,val,upper,lower
+All Population,DALYs (Disability-Adjusted Life Years),Cambodia,Both,Age-standardized,Thalassemias,Rate,2010,63.83809721,88.32153266,47.31639777
+All Population,DALYs (Disability-Adjusted Life Years),Viet Nam,Both,Age-standardized,Thalassemias,Rate,2010,26.90470804,37.57022162,19.50109948
+All Population,DALYs (Disability-Adjusted Life Years),Timor-Leste,Both,Age-standardized,Thalassemias,Rate,2011,39.86936469,57.78240045,27.77435433
+All Population,DALYs (Disability-Adjusted Life Years),Indonesia,Both,Age-standardized,Thalassemias,Rate,2010,38.64054709,52.82257959,27.64428433
+All Population,DALYs (Disability-Adjusted Life Years),Cambodia,Both,Age-standardized,Thalassemias,Rate,2011,62.19674437,86.28329161,46.57135657
+All Population,DALYs (Disability-Adjusted Life Years),Viet Nam,Both,Age-standardized,Thalassemias,Rate,2011,26.63789181,36.36480869,19.0122785
+All Population,DALYs (Disability-Adjusted Life Years),Cambodia,Both,Age-standardized,Thalassemias,Rate,2012,61.23525644,84.02430355,46.19549914
+All Population,DALYs (Disability-Adjusted Life Years),Malaysia,Both,Age-standardized,Thalassemias,Rate,2010,6.5777387,8.67906046,4.886769718
+All Population,DALYs (Disability-Adjusted Life Years),Thailand,Both,Age-standardized,Thalassemias,Rate,2012,24.0129474,28.92210186,19.68949479
+All Population,DALYs (Disability-Adjusted Life Years),Lao People's Democratic Republic,Both,Age-standardized,Thalassemias,Rate,2010,67.50136603,92.08920485,48.30531258
+All Population,DALYs (Disability-Adjusted Life Years),Indonesia,Both,Age-standardized,Thalassemias,Rate,2011,38.02483024,51.39329637,27.00097945
+All Population,DALYs (Disability-Adjusted Life Years),Timor-Leste,Both,Age-standardized,Thalassemias,Rate,2012,41.45984859,59.41454508,28.9927292
+All Population,DALYs (Disability-Adjusted Life Years),Viet Nam,Both,Age-standardized,Thalassemias,Rate,2012,26.10837682,35.95974271,18.65344134
+All Population,DALYs (Disability-Adjusted Life Years),Myanmar,Both,Age-standardized,Thalassemias,Rate,2010,53.53669667,73.50512983,38.00421336
+All Population,DALYs (Disability-Adjusted Life Years),Malaysia,Both,Age-standardized,Thalassemias,Rate,2011,6.597156821,8.599372876,4.945510229
+All Population,DALYs (Disability-Adjusted Life Years),Lao People's Democratic Republic,Both,Age-standardized,Thalassemias,Rate,2011,66.0848183,91.53973026,48.16685893
+All Population,DALYs (Disability-Adjusted Life Years),Indonesia,Both,Age-standardized,Thalassemias,Rate,2012,37.12903725,50.61899939,26.66795496
+All Population,DALYs (Disability-Adjusted Life Years),Myanmar,Both,Age-standardized,Thalassemias,Rate,2011,52.78178899,71.06860989,37.89916108
+All Population,DALYs (Disability-Adjusted Life Years),Lao People's Democratic Republic,Both,Age-standardized,Thalassemias,Rate,2012,64.32217188,88.52287496,46.73778097
+All Population,DALYs (Disability-Adjusted Life Years),Malaysia,Both,Age-standardized,Thalassemias,Rate,2012,6.874847141,9.092710271,5.190552801
+All Population,DALYs (Disability-Adjusted Life Years),Brunei Darussalam,Both,Age-standardized,Thalassemias,Rate,2010,10.12776274,13.71053746,7.606275709
+All Population,DALYs (Disability-Adjusted Life Years),Timor-Leste,Both,Age-standardized,Thalassemias,Rate,2010,37.18711222,53.43451946,26.39224086
+All Population,DALYs (Disability-Adjusted Life Years),Philippines,Both,Age-standardized,Thalassemias,Rate,2011,21.04961419,27.64165475,15.88725577
+All Population,DALYs (Disability-Adjusted Life Years),Brunei Darussalam,Both,Age-standardized,Thalassemias,Rate,2012,10.72879092,14.62327317,8.072679367
+All Population,DALYs (Disability-Adjusted Life Years),Philippines,Both,Age-standardized,Thalassemias,Rate,2010,20.76260234,26.94219068,15.76921004
+All Population,DALYs (Disability-Adjusted Life Years),Brunei Darussalam,Both,Age-standardized,Thalassemias,Rate,2011,10.32200576,13.87803598,7.662836538
+All Population,DALYs (Disability-Adjusted Life Years),Philippines,Both,Age-standardized,Thalassemias,Rate,2013,21.35867041,27.41847815,16.5020294
+All Population,DALYs (Disability-Adjusted Life Years),Myanmar,Both,Age-standardized,Thalassemias,Rate,2012,51.85613995,70.04535634,38.13539197
+All Population,DALYs (Disability-Adjusted Life Years),Cambodia,Both,Age-standardized,Thalassemias,Rate,2013,59.36013447,80.66553094,44.44529451
+All Population,DALYs (Disability-Adjusted Life Years),Philippines,Both,Age-standardized,Thalassemias,Rate,2012,21.49626774,27.22170027,16.62248025
+All Population,DALYs (Disability-Adjusted Life Years),Timor-Leste,Both,Age-standardized,Thalassemias,Rate,2013,41.44382558,61.38408521,29.0656241
+All Population,DALYs (Disability-Adjusted Life Years),Singapore,Both,Age-standardized,Thalassemias,Rate,2010,1.214567905,1.507263661,0.973041937
+All Population,DALYs (Disability-Adjusted Life Years),Thailand,Both,Age-standardized,Thalassemias,Rate,2013,24.07216377,29.22374678,19.80971455
+All Population,DALYs (Disability-Adjusted Life Years),Thailand,Both,Age-standardized,Thalassemias,Rate,2010,24.35076065,29.53157605,19.62985364
+All Population,DALYs (Disability-Adjusted Life Years),Myanmar,Both,Age-standardized,Thalassemias,Rate,2014,54.14103757,75.49473659,38.89949865
+All Population,DALYs (Disability-Adjusted Life Years),Thailand,Both,Age-standardized,Thalassemias,Rate,2011,23.9667287,28.82751959,19.69354373
+All Population,DALYs (Disability-Adjusted Life Years),Viet Nam,Both,Age-standardized,Thalassemias,Rate,2013,25.80999214,35.3766279,18.30808458
+All Population,DALYs (Disability-Adjusted Life Years),Singapore,Both,Age-standardized,Thalassemias,Rate,2011,1.153095903,1.449449452,0.919305535
+All Population,DALYs (Disability-Adjusted Life Years),Philippines,Both,Age-standardized,Thalassemias,Rate,2014,21.29586269,27.82779077,15.93012596
+All Population,DALYs (Disability-Adjusted Life Years),Cambodia,Both,Age-standardized,Thalassemias,Rate,2014,57.22267104,76.70587526,42.49645973
+All Population,DALYs (Disability-Adjusted Life Years),Malaysia,Both,Age-standardized,Thalassemias,Rate,2015,8.44182918,10.72517032,6.400659418
+All Population,DALYs (Disability-Adjusted Life Years),Timor-Leste,Both,Age-standardized,Thalassemias,Rate,2014,41.32936806,59.72292482,28.44000068
+All Population,DALYs (Disability-Adjusted Life Years),Singapore,Both,Age-standardized,Thalassemias,Rate,2012,1.083105876,1.370378518,0.860778335
+All Population,DALYs (Disability-Adjusted Life Years),Lao People's Democratic Republic,Both,Age-standardized,Thalassemias,Rate,2013,63.43062518,88.42858644,46.36551804
+All Population,DALYs (Disability-Adjusted Life Years),Indonesia,Both,Age-standardized,Thalassemias,Rate,2013,36.41077322,50.24080509,25.67879176
+All Population,DALYs (Disability-Adjusted Life Years),Thailand,Both,Age-standardized,Thalassemias,Rate,2014,24.31529704,29.40798918,19.96702996
+All Population,DALYs (Disability-Adjusted Life Years),Myanmar,Both,Age-standardized,Thalassemias,Rate,2015,52.99398841,72.23470662,37.80486263
+All Population,DALYs (Disability-Adjusted Life Years),Cambodia,Both,Age-standardized,Thalassemias,Rate,2017,52.31379115,68.6135468,38.12958774
+All Population,DALYs (Disability-Adjusted Life Years),Cambodia,Both,Age-standardized,Thalassemias,Rate,2015,55.27682193,72.31659368,40.16609429
+All Population,DALYs (Disability-Adjusted Life Years),Timor-Leste,Both,Age-standardized,Thalassemias,Rate,2015,40.91867975,57.39071892,28.99288631
+All Population,DALYs (Disability-Adjusted Life Years),Brunei Darussalam,Both,Age-standardized,Thalassemias,Rate,2013,11.2043207,15.55614284,8.369202989
+All Population,DALYs (Disability-Adjusted Life Years),Brunei Darussalam,Both,Age-standardized,Thalassemias,Rate,2014,11.72792941,16.0226413,8.784242817
+All Population,DALYs (Disability-Adjusted Life Years),Indonesia,Both,Age-standardized,Thalassemias,Rate,2014,35.64282995,49.21456474,24.84651168
+All Population,DALYs (Disability-Adjusted Life Years),Malaysia,Both,Age-standardized,Thalassemias,Rate,2013,7.338370638,9.558733553,5.610783063
+All Population,DALYs (Disability-Adjusted Life Years),Lao People's Democratic Republic,Both,Age-standardized,Thalassemias,Rate,2014,62.3209334,86.82428505,45.00230916
+All Population,DALYs (Disability-Adjusted Life Years),Viet Nam,Both,Age-standardized,Thalassemias,Rate,2014,24.96293201,33.84221831,17.60638461
+All Population,DALYs (Disability-Adjusted Life Years),Malaysia,Both,Age-standardized,Thalassemias,Rate,2016,8.346726459,10.49781346,6.31743094
+All Population,DALYs (Disability-Adjusted Life Years),Myanmar,Both,Age-standardized,Thalassemias,Rate,2013,53.3396423,74.88491155,38.20708631
+All Population,DALYs (Disability-Adjusted Life Years),Philippines,Both,Age-standardized,Thalassemias,Rate,2015,21.32209523,28.14827989,15.90116696
+All Population,DALYs (Disability-Adjusted Life Years),Lao People's Democratic Republic,Both,Age-standardized,Thalassemias,Rate,2016,61.03652657,84.09212941,43.87488467
+All Population,DALYs (Disability-Adjusted Life Years),Malaysia,Both,Age-standardized,Thalassemias,Rate,2014,8.015128764,10.28658596,6.068335688
+All Population,DALYs (Disability-Adjusted Life Years),Timor-Leste,Both,Age-standardized,Thalassemias,Rate,2016,40.42843433,57.14437258,28.26701767
+All Population,DALYs (Disability-Adjusted Life Years),Cambodia,Both,Age-standardized,Thalassemias,Rate,2016,53.9595844,72.1214634,39.57272527
+All Population,DALYs (Disability-Adjusted Life Years),Indonesia,Both,Age-standardized,Thalassemias,Rate,2015,34.78481847,47.54334845,23.38087921
+All Population,DALYs (Disability-Adjusted Life Years),Lao People's Democratic Republic,Both,Age-standardized,Thalassemias,Rate,2015,61.97451836,85.40938464,44.84902972
+All Population,DALYs (Disability-Adjusted Life Years),Cambodia,Both,Age-standardized,Thalassemias,Rate,2018,51.28319013,68.98355388,37.67786049
+All Population,DALYs (Disability-Adjusted Life Years),Myanmar,Both,Age-standardized,Thalassemias,Rate,2016,52.30944787,72.66618595,36.65409234
+All Population,DALYs (Disability-Adjusted Life Years),Thailand,Both,Age-standardized,Thalassemias,Rate,2015,24.59439741,29.60968016,20.35614046
+All Population,DALYs (Disability-Adjusted Life Years),Timor-Leste,Both,Age-standardized,Thalassemias,Rate,2019,38.88536401,54.67987283,27.43242866
+All Population,DALYs (Disability-Adjusted Life Years),Singapore,Both,Age-standardized,Thalassemias,Rate,2013,1.039768034,1.310454009,0.826539281
+All Population,DALYs (Disability-Adjusted Life Years),Indonesia,Both,Age-standardized,Thalassemias,Rate,2017,32.69884029,45.53295344,22.37998336
+All Population,DALYs (Disability-Adjusted Life Years),Philippines,Both,Age-standardized,Thalassemias,Rate,2016,21.39977806,27.7041218,15.51754004
+All Population,DALYs (Disability-Adjusted Life Years),Lao People's Democratic Republic,Both,Age-standardized,Thalassemias,Rate,2017,59.91565608,82.34366407,41.37871602
+All Population,DALYs (Disability-Adjusted Life Years),Viet Nam,Both,Age-standardized,Thalassemias,Rate,2015,25.02796439,33.64135739,17.66297756
+All Population,DALYs (Disability-Adjusted Life Years),Cambodia,Both,Age-standardized,Thalassemias,Rate,2019,49.95066578,66.74183032,36.98639659
+All Population,DALYs (Disability-Adjusted Life Years),Timor-Leste,Both,Age-standardized,Thalassemias,Rate,2017,39.91980494,55.21388716,28.21524673
+All Population,DALYs (Disability-Adjusted Life Years),Singapore,Both,Age-standardized,Thalassemias,Rate,2014,1.009639718,1.27051951,0.804244821
+All Population,DALYs (Disability-Adjusted Life Years),Viet Nam,Both,Age-standardized,Thalassemias,Rate,2018,23.7041784,32.06661338,16.57283134
+All Population,DALYs (Disability-Adjusted Life Years),Malaysia,Both,Age-standardized,Thalassemias,Rate,2017,8.235680663,10.4722133,6.122459433
+All Population,DALYs (Disability-Adjusted Life Years),Thailand,Both,Age-standardized,Thalassemias,Rate,2016,24.9093446,30.25750378,20.78954407
+All Population,DALYs (Disability-Adjusted Life Years),Myanmar,Both,Age-standardized,Thalassemias,Rate,2017,51.3424211,71.46230821,35.7225158
+All Population,DALYs (Disability-Adjusted Life Years),Brunei Darussalam,Both,Age-standardized,Thalassemias,Rate,2015,12.01693011,16.03372217,8.744357999
+All Population,DALYs (Disability-Adjusted Life Years),Timor-Leste,Both,Age-standardized,Thalassemias,Rate,2018,39.51940557,54.59169585,28.21596953
+All Population,DALYs (Disability-Adjusted Life Years),Indonesia,Both,Age-standardized,Thalassemias,Rate,2018,31.69881287,44.49001585,20.83731691
+All Population,DALYs (Disability-Adjusted Life Years),Lao People's Democratic Republic,Both,Age-standardized,Thalassemias,Rate,2018,58.76922678,78.48541658,41.58046161
+All Population,DALYs (Disability-Adjusted Life Years),Indonesia,Both,Age-standardized,Thalassemias,Rate,2016,33.81048187,47.21374819,22.55900177
+All Population,DALYs (Disability-Adjusted Life Years),Viet Nam,Both,Age-standardized,Thalassemias,Rate,2016,24.10432683,32.50845609,17.34694405
+All Population,DALYs (Disability-Adjusted Life Years),Philippines,Both,Age-standardized,Thalassemias,Rate,2017,20.68586166,26.92526058,15.4542947
+All Population,DALYs (Disability-Adjusted Life Years),Singapore,Both,Age-standardized,Thalassemias,Rate,2016,0.970267248,1.22704879,0.774939654
+All Population,DALYs (Disability-Adjusted Life Years),Thailand,Both,Age-standardized,Thalassemias,Rate,2017,24.64735015,29.64781435,20.29899467
+All Population,DALYs (Disability-Adjusted Life Years),Malaysia,Both,Age-standardized,Thalassemias,Rate,2018,7.722816879,9.892021065,5.704091722
+All Population,DALYs (Disability-Adjusted Life Years),Viet Nam,Both,Age-standardized,Thalassemias,Rate,2017,24.05866977,32.52456155,17.25313596
+All Population,DALYs (Disability-Adjusted Life Years),Viet Nam,Both,Age-standardized,Thalassemias,Rate,2019,23.28556323,31.22908405,16.31061842
+All Population,DALYs (Disability-Adjusted Life Years),Myanmar,Both,Age-standardized,Thalassemias,Rate,2018,50.09559821,67.13779479,35.47064714
+All Population,DALYs (Disability-Adjusted Life Years),Brunei Darussalam,Both,Age-standardized,Thalassemias,Rate,2016,11.79025426,16.08449356,8.539277349
+All Population,DALYs (Disability-Adjusted Life Years),Philippines,Both,Age-standardized,Thalassemias,Rate,2018,19.61675259,25.84512167,14.49141316
+All Population,DALYs (Disability-Adjusted Life Years),Brunei Darussalam,Both,Age-standardized,Thalassemias,Rate,2019,11.11719146,14.69444672,8.06888989
+All Population,DALYs (Disability-Adjusted Life Years),Brunei Darussalam,Both,Age-standardized,Thalassemias,Rate,2018,11.42885951,15.30476161,8.296186046
+All Population,DALYs (Disability-Adjusted Life Years),Indonesia,Both,Age-standardized,Thalassemias,Rate,2019,30.80373493,44.62698932,20.46324881
+All Population,DALYs (Disability-Adjusted Life Years),Thailand,Both,Age-standardized,Thalassemias,Rate,2018,24.50803739,30.0472677,20.1665087
+All Population,DALYs (Disability-Adjusted Life Years),Singapore,Both,Age-standardized,Thalassemias,Rate,2017,0.95806283,1.214575783,0.753220605
+All Population,DALYs (Disability-Adjusted Life Years),Brunei Darussalam,Both,Age-standardized,Thalassemias,Rate,2017,11.72348578,15.81015939,8.424291662
+All Population,DALYs (Disability-Adjusted Life Years),Lao People's Democratic Republic,Both,Age-standardized,Thalassemias,Rate,2019,57.57433417,76.54531037,40.0728836
+All Population,DALYs (Disability-Adjusted Life Years),Singapore,Both,Age-standardized,Thalassemias,Rate,2015,1.021954802,1.289525821,0.828952591
+All Population,DALYs (Disability-Adjusted Life Years),Philippines,Both,Age-standardized,Thalassemias,Rate,2019,18.44525586,24.5477936,13.26742831
+All Population,DALYs (Disability-Adjusted Life Years),Malaysia,Both,Age-standardized,Thalassemias,Rate,2019,7.145940243,9.173421556,5.339423503
+All Population,DALYs (Disability-Adjusted Life Years),Thailand,Both,Age-standardized,Thalassemias,Rate,2019,24.464972,30.15958581,19.40077721
+All Population,DALYs (Disability-Adjusted Life Years),Myanmar,Both,Age-standardized,Thalassemias,Rate,2019,48.96766335,66.99183381,34.90658453
+All Population,DALYs (Disability-Adjusted Life Years),Singapore,Both,Age-standardized,Thalassemias,Rate,2018,0.968959489,1.241097651,0.765756939
+All Population,DALYs (Disability-Adjusted Life Years),Singapore,Both,Age-standardized,Thalassemias,Rate,2019,0.915547841,1.181976035,0.71464588
